@@ -14,24 +14,17 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class Manvendra {
+🎓 Final-year B.Tech CS student at GLA University (2026), 
+   specialising in Full Stack Development.
 
-    String name     = "Manvendra Pratap Singh";
-    String role     = "Full Stack Developer";
-    String degree   = "B.Tech Computer Science @ GLA University (2026)";
-    String[] goals  = { "SDE", "Full Stack Engineer", "IAM Engineer" };
+🔨 Currently building: Fitness Tracker (MERN + Chart.js) 
+   and Spring Boot REST APIs with JWT & JPA.
 
-    String[] currentlyBuilding = {
-        "Fitness Tracker  — MERN + Chart.js health companion app",
-        "Spring Boot REST APIs with JWT, JPA, MySQL",
-    };
+📚 Learning: Spring Boot · JPA · MySQL · System Design
 
-    String[] learning = { "Spring Boot", "JPA", "MySQL", "System Design" };
+🎯 Targeting: SDE · Full Stack Engineer · IAM Engineer
 
-    String funFact  = "I learn best by building real projects 🚀";
-}
-```
+⚡ Fun fact: I learn best by building real projects 🚀
 
 ---
 
